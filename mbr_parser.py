@@ -2,7 +2,6 @@
 #  Module: Computer Forensics (ET4027)
 #  Author: Solon Yukio Shibata Meira
 #  ID: 15047199
-######
 
 from _struct import unpack
 
